@@ -1,4 +1,4 @@
-import React, { useEffect, useReducer, useState } from 'react';
+import React from 'react';
 import useInputs from './useInputs';
 
 const Info = () => {
